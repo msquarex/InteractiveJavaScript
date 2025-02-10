@@ -42,7 +42,7 @@ function sumArray() {
 
 function createStudent() {
     let student = {
-        name: 'John Doe',
+        name: 'Madhav Mittal',
         age: 20,
         grades: [85, 90, 78, 92],
         calculateAverage: function () {
